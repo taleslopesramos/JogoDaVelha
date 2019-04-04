@@ -7,4 +7,4 @@ Jogo da Velha feito em C Estruturado.
   *`$ make all`  
 *Executar  
   * `$ ./Jogo.exe`  
-*E ta pronto o sorvetinho!
+* E ta pronto o sorvetinho!
